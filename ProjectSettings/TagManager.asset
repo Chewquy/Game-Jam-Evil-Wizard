@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Block
+  - Clay
+  - Key
+  - Workshop
+  - Pyramid
+  - ClayPlace
+  - BigSmush
+  - Step 2
+  - Step 1
+  - Step 3
+  - Step 4
+  - Step 5
+  - Step 6
+  - Finished
+  - ChiselingSla
+  - PickupClay
+  - Place
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - In Front
+  - Ground
+  - BigSmush
+  - Taker
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
